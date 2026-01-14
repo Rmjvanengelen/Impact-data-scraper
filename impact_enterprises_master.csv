@@ -1,72 +1,72 @@
 ﻿dedupe_key,Naam,Adres,pc4,Source,is_SocialeZaken,is_SocialEnterpriseNL,is_BCorp,is_StewardOwnership,is_CodeSocialeOndernemingen,is_PSO,stadsdeel
 'skek|1012,'SKEK,"Zeedijk 4-8, 1012 AX Amsterdam",1012.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Centrum
-10days|-1,10DAYS,Cornelis Schuytstraat 18,,BCorp,0,0,1,0,0,0,
+10days|1071,10DAYS,"Cornelis Schuytstraat 18, 1071 JJ",1071.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 125procent|1059,125Procent,"Aalsmeerweg 108a , 1059 AP Amsterdam",1059.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 a beautiful mess oosterdok|1011,a beautiful mess oosterdok,"Oosterdokskade 227, 1011 DL Amsterdam",1011.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 a beautiful mess restaurant|1096,A Beautiful Mess Restaurant,"H.J.E. Wenckebachweg 48 , 1096 AN Amsterdam, Utrecht, Arnhem",1096.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 a beautiful mess|-1,A Beautiful Mess,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 a beautiful story b.v.|-1,A Beautiful Story B.V.,,,BCorp,0,0,1,0,0,0,
-a beautiful story|1019,A Beautiful Story,"Veemarkt 222 , 1019 DG Amsterdam",1019.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
-a-dam underwear b.v.|-1,A-dam Underwear B.V.,Danzigerbocht,,BCorp,0,0,1,0,0,0,
-academica university of applied sciences|-1,Academica University of Applied Sciences,Weteringschans 28,,BCorp,0,0,1,0,0,0,
+a beautiful story|1019,A Beautiful Story,"Veemarkt 222 , 1019 DG Amsterdam",1019.0,BCorp; SocialEnterpriseNL,0,1,1,0,0,0,Amsterdam-Oost
+a-dam underwear b.v.|1013,A-dam Underwear B.V.,"Danzigerbocht, 1013 AM",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+academica university of applied sciences|1017,Academica University of Applied Sciences,"Weteringschans 28, 1017 SG",1017.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 accent schoonmaak|1069,Accent Schoonmaak,"Karl Grogersingel , 1069 NX Amsterdam",1069.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam Nieuw-West
 accent|1171,accent,"Dokter Sabelstraat 5, 1171 LS Badhoevedorp",1171.0,SocialeZaken,1,0,0,0,0,0,
-ace & tate|-1,Ace & Tate,Singel 258,,BCorp,0,0,1,0,0,0,
+ace & tate|1016,Ace & Tate,"Singel 258, 1016 AB",1016.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 ace and tate holding b.v.|-1,Ace and Tate Holding B.V.,,,BCorp,0,0,1,0,0,0,
-advion bv|-1,Advion BV,,,BCorp,0,0,1,0,0,0,
-african clean energy bv|-1,African Clean Energy BV,Danzigerkade,,BCorp,0,0,1,0,0,0,
-allshoes professional footwear|-1,Allshoes Professional Footwear,Koivistokade 80,,BCorp,0,0,1,0,0,0,
+advion bv|1046,Advion BV,"Slego 1, 1046BM",1046.0,BCorp,0,0,1,0,0,0,Amsterdam Westpoort
+african clean energy bv|1013,African Clean Energy BV,"Danzigerkade, 1013 AP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+allshoes professional footwear|1013,Allshoes Professional Footwear,"Koivistokade 80, 1013BB",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 ampliar uitzendbureau|-1,ampliar uitzendbureau,"Oostzeedijk 276 D-(Hoofdkantoor), 3063 C Rotterdam",,SocialeZaken,1,0,0,0,0,0,
 amsterdam impact giftcard|-1,amsterdam impact giftcard,,,SocialeZaken,1,0,0,0,0,0,
 amsterdams grachtenhout|1013,amsterdams grachtenhout,"Papierweg 7, 1013 BL Amsterdam",1013.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
-and the people|-1,And The People,Kattenburgerstraat 5,,BCorp,0,0,1,0,0,0,
-anthos fund & asset management b.v.|-1,Anthos Fund & Asset Management B.V.,Jachthavenweg 111,,BCorp,0,0,1,0,0,0,
+and the people|1018,And The People,"Kattenburgerstraat 5, 1018JA",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+anthos fund & asset management b.v.|1081,Anthos Fund & Asset Management B.V.,"Jachthavenweg 111, 1081KM",1081.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 argo360|1046,argo360,"Pleimuiden 24 , 1046 AG Amsterdam",1046.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam Westpoort
 assembly europe|-1,Assembly Europe,,,BCorp,0,0,1,0,0,0,
-avallen spirits bv|-1,Avallen Spirits BV,Sarphatistraat 175-1,,BCorp,0,0,1,0,0,0,
+avallen spirits bv|1018,Avallen Spirits BV,"Sarphatistraat 175-1, 1018 GE",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 avontuur dichtbij|1057,avontuur dichtbij,"Cabralstraat 1, 1057 CD Amsterdam",1057.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-West
-bamboovement|-1,Bamboovement,Centrale Groothandelsmarkt 186,,BCorp,0,0,1,0,0,0,
+bamboovement|1051,Bamboovement,"Centrale Groothandelsmarkt 186, 1051LJ",1051.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 bamboovement|1053,Bamboovement,"Wenslauerstraat 4-3 , 1053 BA Amsterdam",1053.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 beeldend gesproken|1053,beeldend gesproken,"Hannie Dankbaarpassage 23-- De Hallen, 1053 RT Amsterdam",1053.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-West
-befrank ppi n.v.|-1,BeFrank PPI N.V.,Spaklerweg  4,,BCorp,0,0,1,0,0,0,
-being|-1,Being,Modemstraat 2,,BCorp,0,0,1,0,0,0,
+befrank ppi n.v.|1096,BeFrank PPI N.V.,"Spaklerweg  4, 1096BA",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
+being|1033,Being,"Modemstraat 2, 1033 RW",1033.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
 better places|-1,Better Places,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 bijzonder amsterdams|1011,bijzonder amsterdams,"Zwanenburgwal 206, 1011 JH Amsterdam",1011.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 bikes|1021,Bikes,"Gedempt Hamerkanaal 99 , 1021 KP Amsterdam - Roetz",1021.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
 billie wonder|1054,Billie Wonder,"Tesselschadestraat 12 , 1054 ET Amsterdam",1054.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-biteswelove|-1,BitesWeLove,Welnastraat 701A,,BCorp,0,0,1,0,0,0,
+biteswelove|1096,BitesWeLove,"Welnastraat 701A, 1096GJ",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 blend coffee|1055,Blend Coffee,"Bestevaerstraat 256-1 , 1055 TT Amsterdam",1055.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-blooming buildings|-1,Blooming Buildings,Bloemgracht 166,,BCorp,0,0,1,0,0,0,
+blooming buildings|1081,Blooming Buildings,"Bloemgracht 166, 1081 AJ",1081.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 blue road|1017,Blue Road,"herengracht 495 , 1017 BT Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-blyde b.v. | blyde b.v.b.a.|-1,Blyde B.V. | Blyde B.v.b.a.,Gillis van Ledenberchstraat 60-H,,BCorp,0,0,1,0,0,0,
+blyde b.v. | blyde b.v.b.a.|1052,Blyde B.V. | Blyde B.v.b.a.,"Gillis van Ledenberchstraat 60-H, 1052VJ",1052.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 bms security|1046,bms security,"Abberdaan 178, 1046 AB Badhoevedorp",1046.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Westpoort
 boas|1061,BOAS,"Vrouwengelukhof 37, 1061 BS Amsterdam",1061.0,StewardOwnership,0,0,0,1,0,0,Amsterdam Nieuw-West
 bord&stift|1018,Bord&Stift,"Kraijenhoffstraat 137C, 1018 RG Amsterdam",1018.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Centrum
 boro*atelier|1061,BORO*ATELIER,"Ferdinand Huyckstraat 26 , 1061 HW Amsterdam",1061.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam Nieuw-West
-br-nd people|-1,BR-ND People,Roeskestraat 115,,BCorp,0,0,1,0,0,0,
+br-nd people|1076,BR-ND People,"Roeskestraat 115, 1076 EE",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 breedweer|1704,breedweer,"Pannekeetweg 19, 1704 PL Heerhugowaard",1704.0,SocialeZaken,1,0,0,0,0,0,
-bright pensions n.v.|-1,Bright Pensions N.V.,Rietlandpark 301,,BCorp,0,0,1,0,0,0,
+bright pensions n.v.|1019,Bright Pensions N.V.,"Rietlandpark 301, 1019DW",1019.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 brightpensioen|1054,BrightPensioen,"WG-Plein 456 , 1054 SH Amsterdam",1054.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 brouwerij breugem|1013,brouwerij breugem,"Nieuwe Hemweg 2, 1013 BG Amsterdam",1013.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 brouwerij de 7 deugden|-1,Brouwerij De 7 Deugden,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 brouwerij de 7 deugden|1066,brouwerij de 7 deugden,"Akersluis 8-D, 1066 EZ Amsterdam",1066.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam Nieuw-West
 brouwerij de prael|1012,brouwerij de prael,"Oudezijds Voorburgwal  30 , 1012 GD Amsterdam",1012.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam-Centrum
 budlr|1058,Budlr,"Hillegomstraat 12 , 1058 LS Amsterdam",1058.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-bugaboo|-1,Bugaboo,x,,BCorp,0,0,1,0,0,0,
-bunchmark|-1,Bunchmark,Deymanstraat 18,,BCorp,0,0,1,0,0,0,
+bugaboo|1105,Bugaboo,"Paasheuvelweg 9-A, 1105BE",1105.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
+bunchmark|1091,Bunchmark,"Deymanstraat 18, 1091SE",1091.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 buurtboerderij centraal|-1,buurtboerderij centraal,Kattenburgerstraat 5-gebouw 027E,,SocialeZaken,1,0,0,0,0,0,
 bycs|1054,BYCS,"Overtoom 435 , 1054 KE Amsterdam",1054.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 camping zeeburg amsterdam|1095,Camping Zeeburg Amsterdam,"Zuider IJdijk 20, 1095 KN Amsterdam",1095.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
 chairmen at work|1015,Chairmen at Work,"Nicolaas Witsenkade  33-2 , 1015 BN Amsterdam",1015.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-chargetrip|-1,Chargetrip,Lijnbaansgracht 57,,BCorp,0,0,1,0,0,0,
-chocolatemakers|-1,Chocolatemakers,,,BCorp,0,0,1,0,0,0,
+chargetrip|1015,Chargetrip,"Lijnbaansgracht 57, 1015 GS",1015.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 chocolatemakers|1022,Chocolatemakers,"Zesde Vogelstraat  54 , 1022 XE Amsterdam",1022.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
+chocolatemakers|1042,Chocolatemakers,"Radarweg 32-A, 1042AA",1042.0,BCorp,0,0,1,0,0,0,Amsterdam Westpoort
 circulair houtcentrum|1043,circulair houtcentrum,"Rhoneweg 2, 1043 AH Amsterdam",1043.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Westpoort
-circular investment bv|-1,Circular Investment BV,Olympisch Stadion 24–28,,BCorp,0,0,1,0,0,0,
-cityhub holding b.v.|-1,CityHub Holding B.V.,x,,BCorp,0,0,1,0,0,0,
+circular investment bv|1076,Circular Investment BV,"Olympisch Stadion 24–28, 1076 DE",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+cityhub holding b.v.|1053,CityHub Holding B.V.,"Bellamystraat 3, 1053BE",1053.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 clean heroes|1064,clean heroes,"Lodeijk van Deysselstraat 79, 1064 HM Amsterdam",1064.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Nieuw-West
 closing the loop|1013,Closing the Loop,"Burgerweeshuispad  200-201 , 1013 HD Amsterdam",1013.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-coalafied|-1,Coalafied,x,,BCorp,0,0,1,0,0,0,
+coalafied|1058,Coalafied,"Paramariboplein 42-3, 1058AT",1058.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 code academy b.v.|1014,Code Academy B.V.,"Magneetstraat 7, 1014CC Amsterdam",1014.0,PSO,0,0,0,0,0,1,Amsterdam-Centrum
 coffeecompany admiralen|1057,Coffeecompany Admiralen,"Admiralengracht 5, 1057 EK Amsterdam",1057.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-West
 coffeecompany beethoven|1077,Coffeecompany Beethoven,"Beethovenstraat 84, 1077 JN Amsterdam",1077.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Zuid
@@ -88,24 +88,23 @@ coffeecompany schelde|1078,Coffeecompany Schelde,"Scheldestraat 37, 1078 GE Amst
 coffeecompany treub|1097,Coffeecompany Treub,"Mr.Treublaan 18, 1097 DP Amsterdam",1097.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
 coffeecompany van wou|1074,Coffeecompany Van Wou,"Van Woustraat 153, 1074 AK Amsterdam",1074.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Zuid
 coffeecompany wibaut|1091,Coffeecompany Wibaut,"Wibautstraat 7, 1091 GH Amsterdam",1091.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
-copper8|-1,Copper8,James Wattstraat 100,,BCorp,0,0,1,0,0,0,
-copper8|1097,Copper8,"James Wattstraat 100 , 1097 DM Amsterdam",1097.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
+copper8|1097,Copper8,"James Wattstraat 100 , 1097 DM Amsterdam",1097.0,BCorp; SocialEnterpriseNL,0,1,1,0,0,0,Amsterdam-Oost
 cordaan outsider art galerie|1053,cordaan outsider art galerie,"Da Costakade 102, 1053 WP Amsterdam",1053.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-West
-cortazu bv|-1,Cortazu BV,Bilderdijkstraat 136HS,,BCorp,0,0,1,0,0,0,
+cortazu bv|1053,Cortazu BV,"Bilderdijkstraat 136HS, 1053 LA",1053.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 cre8 b.v.|1014,CRE8 B.V.,"Kabelweg 32, 1014BB Amsterdam",1014.0,PSO,0,0,0,0,0,1,Amsterdam-Centrum
 cre8|-1,CRE8,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 cre8|1014,cre8,"Kabelweg 32 , 1014 BB Amsterdam",1014.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam-Centrum
-crisp|-1,Crisp,X,,BCorp,0,0,1,0,0,0,
+crisp|1072,Crisp,"Lizzy Ansinghstraat 163, 1072RG",1072.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 crowdbuilding|1031,CrowdBuilding,"Asterweg 20, C2, 1031 HN Amsterdam",1031.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Noord
 ctalents b.v.|1093,Ctalents B.V.,"Linnaeusstraat 35G, 1093EE Amsterdam",1093.0,PSO,0,0,0,0,0,1,Amsterdam-Oost
 ctalents|1093,ctalents,"Linnaeusstraat 35-G, 1093 EE Amsterdam",1093.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Oost
 ctaste|1074,ctaste,"Amsteldijk 55 , 1074 HX Amsterdam",1074.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam-Zuid
 cupxchange diemen|-1,cupxchange diemen,"Kriekenoord 3, 1111 P Diemen",,SocialeZaken,1,0,0,0,0,0,
 cycle-up|-1,Cycle-Up,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
-daffee|-1,Daffee,Overschiestraat,,BCorp,0,0,1,0,0,0,
+daffee|1062,Daffee,"Overschiestraat, 1062XK",1062.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
 dappr|1012,Dappr,"Stromarkt 4 D , 1012 SW Amsterdam",1012.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-dayrize b.v.|-1,Dayrize B.V.,Apollolaan 151,,BCorp,0,0,1,0,0,0,
-ddj&|-1,DDJ&,x,,BCorp,0,0,1,0,0,0,
+dayrize b.v.|1077,Dayrize B.V.,"Apollolaan 151, 1077 AR",1077.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+ddj&|-1,DDJ&,",",,BCorp,0,0,1,0,0,0,
 de amsterdamse mediafabriek|1033,de amsterdamse mediafabriek,"TT. Vasumweg 38-A, 1033 SC Amsterdam",1033.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Noord
 de boshalte|1098,de boshalte,"Bosbaanweg 1, 1098 BE Amstelveen",1098.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Oost
 de correspondent|1013,De Correspondent,"Barentszplein 7 , 1013 NJ Amsterdam",1013.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
@@ -115,102 +114,102 @@ de eijk duurzaam werk|1351,de eijk duurzaam werk,"De Paal 41, 1351 JH Almere",13
 de lokatie|1031,De Lokatie,"Distelweg 85 , 1031 HD Amsterdam",1031.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
 de mobiele fabriek|1019,De Mobiele Fabriek,"Cruquiusweg 111-R , 1019 AG Amsterdam",1019.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 de mooiste markt|1043,de mooiste markt,"Radarweg 476, 1043 NV Amsterdam",1043.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Westpoort
-de roos coöperatief u.a.|-1,De Roos Coöperatief U.A.,Hamerstraat 9-1,,BCorp,0,0,1,0,0,0,
+de roos coöperatief u.a.|1021,De Roos Coöperatief U.A.,"Hamerstraat 9-1, 1021 JT",1021.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
 de tweede jeugd b.v.|1051,De Tweede Jeugd B.V.,"Joan melchior kemperstraat 108h, 1051TW Amsterdam",1051.0,PSO,0,0,0,0,0,1,Amsterdam-West
 de tweede jeugd|1014,de tweede jeugd,"Contactweg 42-d, 1014 AN Amsterdam",1014.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 de tweede jeugd|1032,De Tweede Jeugd,"Ms. van Riemsdijkweg 30 , 1032 RD Amsterdam",1032.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
 de verbroederij|1021,de verbroederij,"Johan van Hasseltweg 21, 1021 KN Amsterdam",1021.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Noord
-de voorhoede|1013,De Voorhoede,"Koivistokade 70, 1013 BB Amsterdam",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+de voorhoede|1013,De Voorhoede,"Koivistokade 70, 1013 BB Amsterdam, 1013BB",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 delitelabs|1031,Delitelabs,"Tolhuisweg 2 , 1031 CL Amsterdam",1031.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
-dept®|-1,DEPT®,Generaal Vetterstraat 66,,BCorp,0,0,1,0,0,0,
-device europe|2031,device europe,"waarderveldweg 91, 2031 BK Haarlem",2031.0,SocialeZaken,1,0,0,0,0,0,
+dept®|1059,DEPT®,"Generaal Vetterstraat 66, 1059BW",1059.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 digi surfer|1034,Digi Surfer,"Schoenerstraat 7 , 1034 XZ Amsterdam",1034.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
 dignita|1018,dignita,"Nieuwe Herengracht 18-a, 1018 DP Amsterdam",1018.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 diversion|1017,Diversion,"Max Euweplein 36 , 1017 MB Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-doing goods bv|-1,Doing Goods BV,Helicopterstraat 13-15,,BCorp,0,0,1,0,0,0,
-dpw b.v.|-1,DPW B.V.,Singel 8,,BCorp,0,0,1,0,0,0,
+doing goods bv|1059,Doing Goods BV,"Helicopterstraat 13-15, 1059CE",1059.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+dpw b.v.|1017,DPW B.V.,"Singel 8, 1017 AZ",1017.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 dropouts|1101,dropouts,"Hobaostraat 12, 1101 CZ Amsterdam",1101.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam-Zuidoost
 droppie|1051,Droppie,"Van Limburg Stirumplein 1 , 1051 BD Amsterdam",1051.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-drs leenarts|-1,Drs Leenarts,x,,BCorp,0,0,1,0,0,0,
-drukkerij de bij|-1,Drukkerij de Bij,Donauweg 2C,,BCorp,0,0,1,0,0,0,
+drs leenarts|1062,Drs Leenarts,"Overschiestraat 65, 1062XD",1062.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
+drukkerij de bij|1043,Drukkerij de Bij,"Donauweg 2C, 1043 AJ",1043.0,BCorp,0,0,1,0,0,0,Amsterdam Westpoort
 eco social shop|1051,Eco Social Shop,"Van Rappardstraat 5 3 , 1051 HV Amsterdam - Johnny Jungle",1051.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-ecochain technologies b.v.|-1,Ecochain Technologies B.V.,,,BCorp,0,0,1,0,0,0,
+ecochain technologies b.v.|1096,Ecochain Technologies B.V.,"H.J.E. Wenckebachweg, 1096AM",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 ecowings|1061,Ecowings,"Postjesweg 244 , 1061 AX Amsterdam",1061.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam Nieuw-West
 eigen krachtvoer|1073,eigen krachtvoer,"Tweede van der Helstraat 33, 1073 AG Amsterdam",1073.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Zuid
 ekomenu|1066,Ekomenu,"JM Keynesplein 12-46 , 1066 EP Amsterdam",1066.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam Nieuw-West
-ekster|-1,Ekster,x,,BCorp,0,0,1,0,0,0,
-elemental|-1,Elemental,,,BCorp,0,0,1,0,0,0,
-elephant|-1,Elephant,Beursplein,,BCorp,0,0,1,0,0,0,
-en serio|-1,En Serio,,,BCorp,0,0,1,0,0,0,
-everyone.org|-1,Everyone.org,Herengracht 320,,BCorp; CodeSocialeOndernemingen,0,0,1,0,1,0,
+ekster|1017,Ekster,"Prinsengracht 769A, 1017 JZ Amsterdam, 1017 JZ",1017.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+elemental|1101,Elemental,"Hogehilweg 20, 1101 DC",1101.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
+elephant|1018,Elephant,"Beursplein, 1018 VN",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+en serio|1058,En Serio,"Hendrikje Stoffelsstraat 57, 1058GC",1058.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+ervaring spreekt|1014,Ervaring spreekt,"Haarlemmerweg 1084 , 1014BL Amsterdam",1014.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
+everyone.org|-1,Everyone.org,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
+everyone.org|1016,Everyone.org,"Herengracht 320, 1016 CE",1016.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 everyone.org|1017,Everyone.org,"Herengracht 480 , 1017 CB Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
 fa crew|1033,fa crew,"Analoogstraat 20, 1033 MR Amsterdam",1033.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Noord
-fabienne chapot|-1,Fabienne Chapot,Herengracht 479,,BCorp,0,0,1,0,0,0,
+fabienne chapot|1013,Fabienne Chapot,"Herengracht 479, 1013 AP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 fair + fair|1017,FAIR + FAIR,"Reguliersgracht 103 , 1017 LP Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-fairphone|-1,Fairphone,Van Diemenstraat 200,,BCorp,0,0,1,0,0,0,
-fastned b.v.|-1,Fastned B.V.,Amstelplein 44,,BCorp,0,0,1,0,0,0,
+fairphone|1013,Fairphone,"Van Diemenstraat 200, 1013CP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+fastned b.v.|1096,Fastned B.V.,"Amstelplein 44, 1096BC",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 fawaka|1031,Fawaka,"Tolhuisweg 1 , 1031 CL Amsterdam",1031.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
-fd mediagroep|-1,FD Mediagroep,Prins Bernhardplein 173,,BCorp,0,0,1,0,0,0,
-fiorito b.v.|-1,Fiorito B.V.,Hullenbergweg 278,,BCorp,0,0,1,0,0,0,
-fip organic holding b.v.|-1,FIP Organic Holding B.V.,Meeuwenlaan,,BCorp,0,0,1,0,0,0,
-fish tales holding bv|-1,Fish Tales Holding BV,Nieuwpoortkade 2a,,BCorp,0,0,1,0,0,0,
-food cabinet b.v.|-1,Food Cabinet B.V.,Agatha Dekenstraat 4-H,,BCorp,0,0,1,0,0,0,
-food for skin|-1,FOOD for SKIN,x,,BCorp,0,0,1,0,0,0,
+fd mediagroep|1097,FD Mediagroep,"Prins Bernhardplein 173, 1097BL",1097.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
+fiorito b.v.|1101,Fiorito B.V.,"Hullenbergweg 278, 1101 BV",1101.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
+fip organic holding b.v.|1021,FIP Organic Holding B.V.,"Meeuwenlaan 98, 1021JL",1021.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
+fish tales holding bv|1055,Fish Tales Holding BV,"Nieuwpoortkade 2a, 1055RX",1055.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+food cabinet b.v.|1053,Food Cabinet B.V.,"Agatha Dekenstraat 4-H, 1053AP",1053.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+food for skin|1018,FOOD for SKIN,"Voormalige Stadstimmertuin 2-D, 1018ET",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 fornet|1052,fornet,"Claude Debussylaan 5-a, 1052 MC Amsterdam",1052.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-West
-found b.v.|-1,Found B.V.,Deccaweg 30,,BCorp,0,0,1,0,0,0,
-fronteer|-1,Fronteer,,,BCorp,0,0,1,0,0,0,
-front®|-1,FRONT®,Karperweg 41.,,BCorp,0,0,1,0,0,0,
+found b.v.|1042,Found B.V.,"Deccaweg 30, 1042AD",1042.0,BCorp,0,0,1,0,0,0,Amsterdam Westpoort
+fronteer|1077,Fronteer,"Strawinskylaan 785, 1077XX",1077.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+front®|1075,FRONT®,"Karperweg 41, 1075 LB",1075.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 fruitful office|-1,fruitful office,"Joan Muyskenweg 32-a, 1114 A Amsterdam-Duivendrecht",,SocialeZaken,1,0,0,0,0,0,
 fun forest foundation|1036,Fun Forest Foundation,"Moestuinlaan 22 , 1036 KD Amsterdam",1036.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
 fun forest|1182,fun forest,"Bosbaanweg (Amsterdamse Bos) 3, 1182 DA Amstelveen",1182.0,SocialeZaken,1,0,0,0,0,0,
-futuresacademy|-1,FuturesAcademy,Koningin Wilhelminaplein 13,,BCorp,0,0,1,0,0,0,
-futurewhiz b.v.|-1,Futurewhiz B.V.,Prins Bernhardplein 200,,BCorp,0,0,1,0,0,0,
-gardeners|-1,Gardeners,Vondelstraat 120D,,BCorp,0,0,1,0,0,0,
+futuresacademy|-1,FuturesAcademy,"Koningin Wilhelminaplein 13, Wibautstraat 131-D",,BCorp,0,0,1,0,0,0,
+futurewhiz b.v.|1097,Futurewhiz B.V.,"Prins Bernhardplein 200, 1097 JB",1097.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
+gardeners|1054,Gardeners,"Vondelstraat 120D, 1054 GS",1054.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 geen stress amsterdam|1052,Geen Stress Amsterdam,"Nassaukade 63X , 1052 CP Amsterdam",1052.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 geja werkprojecten|3449,geja werkprojecten,"Barwoutswaarder 41-A, 3449 HH Woerden",3449.0,SocialeZaken,1,0,0,0,0,0,
-generous minds|-1,Generous Minds,wibautstraat,,BCorp,0,0,1,0,0,0,
-generous minds|1091,Generous Minds,"Wibautstraat 131D, 1091 GL Amsterdam",1091.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
+generous minds|1091,Generous Minds,"Wibautstraat 131D, 1091 GL Amsterdam",1091.0,BCorp; StewardOwnership,0,0,1,1,0,0,Amsterdam-Oost
 geschenk met verhaal|1019,Geschenk met Verhaal,"Veemarkt 228 , 1019 DD Amsterdam",1019.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
+global asset services|2031,global asset services,"waarderveldweg 91, 2031 BK Haarlem",2031.0,SocialeZaken,1,0,0,0,0,0,
 goede doelen loterijen|1077,Goede Doelen Loterijen,"Beethovenstraat 200 , 1077 JZ Amsterdam",1077.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuid
 goodup|1011,GoodUp,"'s Gravenhekje 1a , 1011 TG Amsterdam",1011.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-goodwell investments|-1,Goodwell Investments,Herengracht 201,,BCorp,0,0,1,0,0,0,
-green events|1017,Green Events,"Keizersgracht 520-H , 1017 EK Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
+goodwell investments|1016,Goodwell Investments,"Herengracht 201, 1016 BE",1016.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 greenfox|2516,greenfox,"Saturnusstraat 47, 2516 AE Den Haag",2516.0,SocialeZaken,1,0,0,0,0,0,
 greenhost|1032,Greenhost,"Johan van Hasseltkade 202 , 1032 LP Amsterdam",1032.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
-greenjobs.nl & tivy.club|-1,Greenjobs.nl & Tivy.club,Bossestraat,,BCorp,0,0,1,0,0,0,
-gresb|-1,GRESB,Barbara Strozzilaan 374,,BCorp,0,0,1,0,0,0,
+greenjobs.nl & tivy.club|-1,Greenjobs.nl & Tivy.club,",",,BCorp,0,0,1,0,0,0,
+gresb|1083,GRESB,"Barbara Strozzilaan 374, 1083HN",1083.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 groen nieuw-west coöperatie|1069,groen nieuw-west coöperatie,"Botteskerksingel 30-b, 1069 XT Amsterdam",1069.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Nieuw-West
 groene bouwhekken|3991,groene bouwhekken,"Diepe Hoon 1, 3991 CW Houten",3991.0,SocialeZaken,1,0,0,0,0,0,
-grooblue|-1,Grooblue,Vinkenstraat 149,,BCorp,0,0,1,0,0,0,
+grooblue|1013,Grooblue,"Vinkenstraat 149, 1013JP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 hannah’s|-1,hannah’s,"Admiraal de Ruijterweg 107-h, 1056 E Amsterdam",,SocialeZaken,1,0,0,0,0,0,
-heldergroen|-1,Heldergroen,Sarphatistraat 640–642,,BCorp,0,0,1,0,0,0,
-hestia holding bv|-1,Hestia Holding BV,x,,BCorp,0,0,1,0,0,0,
-highberg group b.v.|-1,Highberg Group B.V.,,,BCorp,0,0,1,0,0,0,
-holie's|-1,Holie's,Herengracht 180,,BCorp,0,0,1,0,0,0,
-home bv|-1,Home BV,Barentszplein 7,,BCorp,0,0,1,0,0,0,
+heldergroen|1018,Heldergroen,"Sarphatistraat 640–642, 1018 AV",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+hestia holding bv|1031,Hestia Holding BV,"Asterweg 17-A 1, 1031 HL",1031.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
+highberg group b.v.|1083,Highberg Group B.V.,"Barbara Strozzilaan 201, 1083 HN",1083.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+holie's|1016,Holie's,"Herengracht 180, 1016 BR",1016.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+home bv|1013,Home BV,"Barentszplein 7, 1013 NJ",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 hotel casa amsterdam|1097,Hotel Casa Amsterdam,"Eerste Ringdijkstraat 4, 1097 BC Amsterdam",1097.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
 hotel con corazón|1053,Hotel con Corazón,"Tweede Kostverlorenkade 65 , 1053 SB Amsterdam",1053.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 houtstek|1184,houtstek,"Amsteldijk Zuid 67, 1184 VD Amstelveen",1184.0,SocialeZaken,1,0,0,0,0,0,
-hpb | het pr bureau|-1,HPB | Het PR Bureau,,,BCorp,0,0,1,0,0,0,
-hpe growth|1072,HPE Growth,"Jozef Israëlskade 46 B, 1072 SB Amsterdam",1072.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+hpb | het pr bureau|1012,HPB | Het PR Bureau,"Danzigerbocht 39F, 1012 AM",1012.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+hpe growth|1072,HPE Growth,"Jozef Israëlskade 46 B, 1072 SB Amsterdam, 1072 SB",1072.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 iambe | broodbakkerij|1072,iambe | broodbakkerij,"Van der Helstplein 6, 1072 PH Amsterdam",1072.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Zuid
 ict vanaf morgen|1033,ict vanaf morgen,"Internetstraat 17, 1033 MS Amsterdam",1033.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Noord
-impact hub amsterdam|-1,Impact Hub Amsterdam,,,BCorp,0,0,1,0,0,0,
+impact hub amsterdam|1018,Impact Hub Amsterdam,"Kattenburgerstraat 5, 1018 JA",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 impact hub amsterdam|1092,Impact Hub Amsterdam,"Linnaeusstraat 2C , 1092 CK Amsterdam",1092.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 impower|-1,ImPower,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
-inbo|-1,INBO,Koningin Wilhelminaplein 29,,BCorp,0,0,1,0,0,0,
-international bon ton toys|-1,International Bon Ton Toys,Archangelkade 30C,,BCorp,0,0,1,0,0,0,
-itc accessories|-1,ITC Accessories,Burgemeester Stramanweg 101,,BCorp,0,0,1,0,0,0,
-john altman|-1,John Altman,x,,BCorp,0,0,1,0,0,0,
-johnny cashew nederland bv|-1,Johnny Cashew Nederland BV,"Johan Huizingalaan 763,",,BCorp,0,0,1,0,0,0,
+inbo|1062,INBO,"Koningin Wilhelminaplein 29, 1062 HJ",1062.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
+international bon ton toys|1013,International Bon Ton Toys,"Archangelkade 30C, 1013 BE",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+itc accessories|1101,ITC Accessories,"Burgemeester Stramanweg 101, 1101 AA",1101.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
+john altman|-1,John Altman,",",,BCorp,0,0,1,0,0,0,
+johnny cashew nederland bv|-1,Johnny Cashew Nederland BV,,,BCorp,0,0,1,0,0,0,
+johnny cashew|1066,Johnny Cashew,"Johan Huizingalaan 763,, 1066VH",1066.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
 jungle|-1,jungle,"Tweede van Swindenstraat 26, 1093 V Amsterdam",,SocialeZaken,1,0,0,0,0,0,
-karma kebab|-1,Karma Kebab,X,,BCorp,0,0,1,0,0,0,
-karmijn kapitaal management b.v.|-1,Karmijn Kapitaal Management B.V.,,,BCorp,0,0,1,0,0,0,
-kassl editions|-1,KASSL Editions,de Lutmastraat 191H,,BCorp,0,0,1,0,0,0,
+karma kebab|1114,Karma Kebab,"Ellermanstraat 33, 1114 AK",1114.0,BCorp,0,0,1,0,0,0,
+karmijn kapitaal management b.v.|1062,Karmijn Kapitaal Management B.V.,", 1062 KS",1062.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
+kassl editions|1074,KASSL Editions,"de Lutmastraat 191H, 1074 TV",1074.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 knopom|1032,KnopOm,"Witbolstraat 3, 1032 LC Amsterdam",1032.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Noord
-koeckebackers|-1,KOECKEBACKERS,Cabralstraat 1,,BCorp,0,0,1,0,0,0,
-koeckebackers|1057,Koeckebackers,"Cabralstraat 7 , 1057 CD Amsterdam",1057.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-koos|-1,Koos,,,BCorp,0,0,1,0,0,0,
+koeckebackers|1057,Koeckebackers,"Cabralstraat 7 , 1057 CD Amsterdam",1057.0,BCorp; SocialEnterpriseNL,0,1,1,0,0,0,Amsterdam-West
+koos|1013,Koos,"Danzigerbocht 39 E, 1013 AM",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 kragtwijk finest food|1185,kragtwijk finest food,"Bouwerij 73, 1185 XW Amstelveen",1185.0,SocialeZaken,1,0,0,0,0,0,
 kringloopbedrijf de lokatie|1031,kringloopbedrijf de lokatie,"Distelweg 85, 1031 HD Amsterdam",1031.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Noord
 kriterion studentenpomp|1095,Kriterion Studentenpomp,"IJburglaan 11, 1095 KG Amsterdam",1095.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
@@ -220,50 +219,50 @@ kumasi drinks|1091,Kumasi Drinks,"Wibautstraat 150 , 1091 GR Amsterdam",1091.0,S
 kunstuitleen beeldend gesproken|1053,Kunstuitleen Beeldend Gesproken,"Hannie Dankbaarpassage 23 , 1053 RT Amsterdam",1053.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 land life company|1092,Land Life Company,"Mauritskade  63 , 1092 AD Amsterdam",1092.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 landschapsbeheer gein en angstel|1391,landschapsbeheer gein en angstel,"Gein Noord 38, 1391 HA Abcoude",1391.0,SocialeZaken,1,0,0,0,0,0,
-lazy vegan|-1,Lazy Vegan,Kuiperbergweg 4,,BCorp,0,0,1,0,0,0,
+lazy vegan|1101,Lazy Vegan,"Kuiperbergweg 4, 1101AG",1101.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
 lemonaid & charitea|1019,LemonAid & ChariTea,"Jollemanhof 17 , 1019 GW Amsterdam",1019.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 level 5 group|1043,Level 5 Group,"Rhoneweg 2 , 1043 AH Amsterdam",1043.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam Westpoort
-levelup group b.v.|-1,LevelUp Group B.V.,Johann Siegerstraat 22-24,,BCorp,0,0,1,0,0,0,
+levelup group b.v.|1096,LevelUp Group B.V.,"Johann Siegerstraat 22-24, 1096BH",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 libre foundation|1019,Libre Foundation,"KNSM-laan 276 , 1019 LM Amsterdam",1019.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
-limelights|-1,Limelights,Danzigerbocht 39F,,BCorp,0,0,1,0,0,0,
-lingotto|-1,Lingotto,,,BCorp,0,0,1,0,0,0,
+limelights|1013,Limelights,"Danzigerbocht 39F, 1013AM",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+lingotto|1096,Lingotto,"Willem Fenengastraat 4-D, 1096BN",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 loenatix|1054,loenatix,"J.P. Heijestraat 129, 1054 ME Amsterdam",1054.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-West
 ltp business psychologen|1101,LTP Business Psychologen,"De Entree 99-197, 1101 HE Amsterdam",1101.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Zuidoost
-lumen loyalty b.v.|-1,Lumen Loyalty B.V.,Bontiusplaats 48,,BCorp,0,0,1,0,0,0,
+lumen loyalty b.v.|1018,Lumen Loyalty B.V.,"Bontiusplaats 48, 1018 LL",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 made here|1095,MADE HERE,"Zeeburgerdijk 265 , 1095 AC Amsterdam",1095.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 makers unite|1096,Makers Unite,"H.J.E. Wenckebachweg 48 , 1096 AN Amsterdam",1096.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 mama's koelkast|1015,Mama's Koelkast,"Tweedegoudsbloemdwarsstraat 6b , 1015 JZ Amsterdam",1015.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
 marie marie amsterdam|1079,MARIE MARIE Amsterdam,"Amsteldijk 153 , 1079 LG Amsterdam",1079.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuid
-marie-stella-maris|-1,Marie-Stella-Maris,Keizersgracht 357,,BCorp,0,0,1,0,0,0,
+marie-stella-maris|1059,MARIE-STELLA-MARIS,"Generaal Vetterstraat 75-D, 1059 BT",1059.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 maris|1059,Maris,"Generaal Vetterstraat 75E , 1059 BT Amsterdam - Marie-Stella",1059.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-mattmo creative bv|-1,Mattmo Creative bv,Spinhuissteeg 5,,BCorp,0,0,1,0,0,0,
-meelunie|-1,Meelunie,Claude Debussylaan 40,,BCorp,0,0,1,0,0,0,
+mattmo creative bv|1012,Mattmo Creative BV,"Spinhuissteeg 5, 1012 CH",1012.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+meelunie|1082,Meelunie,"Claude Debussylaan 40, 1082MD",1082.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 meo|2031,meo,"A. Hofmanweg 1-A, 2031 BH Haarlem",2031.0,SocialeZaken,1,0,0,0,0,0,
 midwest|1057,midwest,"Cabralstraat 1 , 1057 CD Amsterdam",1057.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam-West
 milieuwerk amsterdam|1047,milieuwerk amsterdam,"Kopraweg 3, 1047 BP Amsterdam",1047.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Westpoort
 milieuwerk|1043,Milieuwerk,"Basisweg 66 , 1043 AN Amsterdam",1043.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam Westpoort
-misteli creative agency|-1,Misteli creative agency,Anthony Fokkerweg 1,,BCorp,0,0,1,0,0,0,
-mojo maté|-1,Mojo Maté,x,,BCorp,0,0,1,0,0,0,
+misteli creative agency|1059,Misteli creative agency,"Anthony Fokkerweg 1, 1059CM",1059.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+mojo maté|1042,Mojo Maté,"Gyroscoopweg 19, 1042AC",1042.0,BCorp,0,0,1,0,0,0,Amsterdam Westpoort
 money start|-1,Money Start,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
-motopp b.v.|1011,Motopp B.V.,"'s-gravenhekje 1a, 1011TG Amsterdam",1011.0,PSO,0,0,0,0,0,1,Amsterdam-Centrum
-move to impact group b.v.|-1,Move to Impact Group B.V.,Bestevâerstraat 156-H,,BCorp,0,0,1,0,0,0,
-moyee coffee|-1,Moyee Coffee,Elementenstraat 10,,BCorp; CodeSocialeOndernemingen,0,0,1,0,1,0,
+move to impact group b.v.|1055,Move to Impact Group B.V.,"Bestevâerstraat 156-H, 1055TR",1055.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+moyee coffee|-1,Moyee Coffee,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
+moyee coffee|1014,Moyee Coffee,"Elementenstraat 10, 1014AR",1014.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 moyu|1096,MOYU,"H.J.E. Wenckebachweg 144 , 1096 AR Amsterdam",1096.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
-mr marvis global holding b.v.|-1,MR MARVIS Global Holding B.V.,Huddestraat 3,,BCorp,0,0,1,0,0,0,
-multitude|-1,Multitude,Ridderspoorweg 115,,BCorp,0,0,1,0,0,0,
-"mypup, my pick up point|-1","MyPup, My Pick up Point",Kuiperbergweg 32,,BCorp,0,0,1,0,0,0,
+mr marvis global holding b.v.|1018,MR MARVIS Global Holding B.V.,"Huddestraat 3, 1018 HB",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+multitude|1032,Multitude,"Ridderspoorweg 115, 1032 LL",1032.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
+"mypup, my pick up point|1101","MyPup, My Pick up Point","Kuiperbergweg 32, 1101AG",1101.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
 netwerkpro|1092,Netwerkpro,"Derde Oosterparkstraat 138 A , 1092 EC Amsterdam",1092.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 new paradigm|1011,New Paradigm,"Jodenbreestraat 25, 1011 NH Amsterdam",1011.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Centrum
-newkinds|-1,NEWKINDS,,,BCorp,0,0,1,0,0,0,
-next sense|-1,Next Sense,Koningin Wilhelminaplein 856,,BCorp,0,0,1,0,0,0,
+newkinds|1011,NEWKINDS,"Kromme Waal 12A, 1011 BS",1011.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+next sense|1062,Next Sense,"Koningin Wilhelminaplein 856, 1062KS",1062.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
 nicole & janneke|1014,nicole & janneke,"Molenwerf 22, 1014 BG Amsterdam",1014.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
-nlc health ventures|-1,NLC Health Ventures,Paasheuvelweg,,BCorp,0,0,1,0,0,0,
-nlmtd|-1,nlmtd,,,BCorp,0,0,1,0,0,0,
-no fairytales|-1,No Fairytales,Danzigerkade 13 F,,BCorp,0,0,1,0,0,0,
-norday b.v.|-1,Norday B.V.,,,BCorp,0,0,1,0,0,0,
-nostics|-1,Nostics,Pietersbergweg 199,,BCorp,0,0,1,0,0,0,
+nlc health ventures|1105,NLC Health Ventures,"Paasheuvelweg 25, 1105BP",1105.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
+nlmtd|1076,nlmtd,"Fred. Roeskestraat 115, 1076EE",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+no fairytales|1013,No Fairytales,"Danzigerkade 13 F, 1013 AP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+norday b.v.|1012,Norday B.V.,"Prins Hendrikkade 21D, 1012 TL",1012.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+nostics|1105,Nostics,"Prins Hendrikkade 21D, 1105 BM",1105.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
 not for sale|-1,Not For Sale,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
-o my bag|-1,O My Bag,Ceintuurbaan 123 H,,BCorp,0,0,1,0,0,0,
+o my bag|1072,O My Bag,"Ceintuurbaan 123 H, 1072 GA",1072.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 odin amsterdam bilderdijkstraat|1053,Odin Amsterdam Bilderdijkstraat,"Bilderdijkstraat 64, 1053 KV Amsterdam",1053.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-West
 odin amsterdam bos en lommer|1055,Odin Amsterdam Bos en Lommer,"Bos en Lommerweg 261, 1055 DW Amsterdam",1055.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-West
 odin amsterdam ceintuurbaan|1072,Odin Amsterdam Ceintuurbaan,"Ceintuurbaan 218, 1072 GD Amsterdam",1072.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Zuid
@@ -271,8 +270,9 @@ odin amsterdam czaar peter|1018,Odin Amsterdam Czaar Peter,"Czaar Peterstraat 2 
 odin amsterdam ijburg|1087,Odin Amsterdam IJburg,"Joris Ivensplein 56, 1087 BP Amsterdam",1087.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
 odin amsterdam noord|1031,Odin Amsterdam Noord,"Docklandsweg 23, 1031 KN Amsterdam",1031.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Noord
 odin amsterdam zeeburg|1019,Odin Amsterdam Zeeburg,"Oostelijke Handelskade 1051, 1019 BW Amsterdam",1019.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
-oma's soep bv|-1,Oma's Soep BV,Weesperstraat 111,,BCorp,0,0,1,0,0,0,
+oma's soep bv|-1,Oma's Soep BV,,,BCorp,0,0,1,0,0,0,
 oma's soep|1014,Oma's Soep,"Contactweg 60 , 1014 BW Amsterdam",1014.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
+oma's soep|1018,Oma's Soep,"Weesperstraat 111, 1018 VN",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 oma’s soep|-1,Oma’s Soep,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 onbeperkt aan de slag|3958,onbeperkt aan de slag,"Overstraat 36, 3958 BV Amerongen",3958.0,SocialeZaken,1,0,0,0,0,0,
 oneloan|1098,Oneloan,"Newtonstraat 50-h , 1098 HE Amsterdam",1098.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
@@ -280,7 +280,7 @@ oneworld|1011,OneWorld,"De Ruijterkade 128 , 1011 AC Amsterdam",1011.0,SocialEnt
 openembassy|1018,OpenEmbassy,"Kattenburgerstraat 5 Gebouw 003-C , 1018 JA Amsterdam",1018.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
 operatie periscoop|1055,Operatie Periscoop,"Gibraltarstraat 74b , 1055 NS Amsterdam",1055.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 oscar circulair|1018,Oscar Circulair,"Nieuwe Prinsengracht 39-3 , 1018 EG Amsterdam",1018.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-otrium|-1,Otrium,Danzigerkade,,BCorp,0,0,1,0,0,0,
+otrium|1013,Otrium,"Danzigerkade, 1013AP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 pancakes amsterdam|1016,pancakes amsterdam,"Prinsengracht 277, 1016 GW Amsterdam",1016.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 pantar digitaliseren|1111,pantar digitaliseren,"Kriekenoord 3, 1111 PT Diemen",1111.0,SocialeZaken,1,0,0,0,0,0,
 pantar facilitaire diensten|1111,pantar facilitaire diensten,"Kriekenoord 3, 1111 PT Diemen",1111.0,SocialeZaken,1,0,0,0,0,0,
@@ -291,31 +291,31 @@ pantar post- en koeriersdiensten|1111,pantar post- en koeriersdiensten,"Kriekeno
 pantar schoonmaak|1111,pantar schoonmaak,"Kriekenoord 3, 1111 PT Diemen",1111.0,SocialeZaken,1,0,0,0,0,0,
 pantar verzorging evenementen|1111,pantar verzorging evenementen,"Kriekenoord 3, 1111 PT Diemen",1111.0,SocialeZaken,1,0,0,0,0,0,
 pantar|1111,pantar,"Kriekenoord 3, 1111 PT Diemen",1111.0,SocialeZaken,1,0,0,0,0,0,
-paul de ruiter architects|-1,Paul de Ruiter Architects,Valschermkade 36D,,BCorp,0,0,1,0,0,0,
+paul de ruiter architects|1059,Paul de Ruiter Architects,"Valschermkade 36D, 1059CD",1059.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 pc uitvaart|1067,PC Uitvaart,"Ookmeerweg 273, 1067 SP Amsterdam",1067.0,StewardOwnership,0,0,0,1,0,0,Amsterdam Nieuw-West
 peer accountants amsterdam b.v.|1058,Peer Accountants Amsterdam B.V.,"Baarsjesweg 224, 1058AA Amsterdam",1058.0,PSO,0,0,0,0,0,1,Amsterdam-West
 peer accountants|-1,Peer Accountants,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 peer accountants|1058,peer accountants,"Gebouw De Admiraal, Baarsjesweg 224, 1058 AA Amsterdam",1058.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam-West
 peerby|1017,Peerby,"Keizersgracht 555 , 1017 HG Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
 peukenzee|1183,peukenzee,"Laan van kronenburg 7-a, 1183 AS Amstelveen",1183.0,SocialeZaken,1,0,0,0,0,0,
-plnktn|-1,plnktn,Anthony Fokkerweg 21,,BCorp,0,0,1,0,0,0,
-pymwymic|-1,Pymwymic,Mauritskade 63,,BCorp,0,0,1,0,0,0,
-rainbow collection|-1,Rainbow Collection,Van Diemenstraat 124,,BCorp,0,0,1,0,0,0,
+plnktn|1074,plnktn,"Anthony Fokkerweg 21, 1074BC",1074.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+pymwymic|1092,Pymwymic,"Mauritskade 63, 1092AD",1092.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
+rainbow collection|1013,Rainbow Collection,"Van Diemenstraat 124, 1013CN",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 rambler|1012,Rambler,"Zeedijk 54 , 1012 BA Amsterdam",1012.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-random studio|-1,Random Studio,Gillis van Ledenberchstraat 112,,BCorp,0,0,1,0,0,0,
+random studio|1052,Random Studio,"Gillis van Ledenberchstraat 112, 1052VK",1052.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 rataplan|1062,rataplan,"Generatorstraat 10, 1062 JX Amsterdam",1062.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Nieuw-West
 recycle|1053,recycle,"Hannie Dankbaarpassage 27-(De Hallen), 1053 RT Amsterdam",1053.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-West
 rederij kees|-1,Rederij Kees,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 rederij kees|1013,rederij kees,"Nieuwe Hemweg 42, 1013 CX Amsterdam",1013.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 rederij lampedusa|1019,rederij lampedusa,"Dijksgracht 6, 1019 BS Amsterdam",1019.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Oost
-regreener b.v.|-1,Regreener B.V.,IJsbaanpad 2,,BCorp,0,0,1,0,0,0,
+regreener b.v.|1076,Regreener B.V.,"IJsbaanpad 2, 1076 CV",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 reisbrigade|-1,Reisbrigade,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 reisbrigade|1057,Reisbrigade,"Cabralstraat 1 , 1057 CD Amsterdam",1057.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
 rem automatisering|1019,REM Automatisering,"Cruquiusweg 60, 1019 AH Amsterdam",1019.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
-renewaball|-1,Renewaball,Zoutkeetsgracht,,BCorp,0,0,1,0,0,0,
+renewaball|1013,Renewaball,"Zoutkeetsgracht 135, 1013 LC",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 restaurant freud|1013,restaurant freud,"Spaarndammerstraat 424, 1013 SZ Amsterdam",1013.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 return to sender|1043,Return to Sender,"Arlandaweg 92 , 1043 EX Amsterdam",1043.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam Westpoort
-rituals cosmetics|-1,Rituals Cosmetics,Keizergracht,,BCorp,0,0,1,0,0,0,
+rituals cosmetics|1016,Rituals Cosmetics,"Singel 258-A,, 1016 AB",1016.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 roads vervoer|1093,roads vervoer,"Domselaerstraat 128-a, 1093 MB Amsterdam",1093.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Oost
 rock products|-1,ROCK Products,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 rock products|1043,rock products,"Rhoneweg 2, 1043 AH Amsterdam",1043.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Westpoort
@@ -323,116 +323,115 @@ roetz fair factory foundation|1021,roetz fair factory foundation,"Schaafstraat 1
 roetz fair factory|-1,Roetz Fair Factory,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 rond amsterdam|1018,rond amsterdam,"Valckenierstraat 65, 1018 XE Amsterdam",1018.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 rose stories|1077,ROSE stories,"Beethovenstraat 32 , 1077 JH Amsterdam",1077.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuid
-rubio fund management bv|-1,Rubio Fund Management BV,Plantage Middenlaan 45,,BCorp,0,0,1,0,0,0,
-sanature|-1,Sanature,Herengracht 427,,BCorp,0,0,1,0,0,0,
-satopia group ltd|-1,Satopia Group Ltd,Keizersgracht 534,,BCorp,0,0,1,0,0,0,
-scaleup company|-1,ScaleUp Company,,,BCorp,0,0,1,0,0,0,
-scaleup impact bv|-1,Scaleup Impact BV,Kattenburgerstraat 5,,BCorp,0,0,1,0,0,0,
+rubio fund management bv|1018,Rubio Fund Management BV,"Plantage Middenlaan 45, 1018 DC",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+sanature|1017,Sanature,"Herengracht 427, 1017 BR",1017.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+satopia group ltd|1017,Satopia Group Ltd,"Keizersgracht 534, 1017EK",1017.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+scaleup company|1114,ScaleUp Company,"Joop Geesinkweg 205, 1114AB",1114.0,BCorp,0,0,1,0,0,0,
+scaleup impact bv|1018,Scaleup Impact BV,"Kattenburgerstraat 5, 1018JA",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 schreudersgroen|1067,schreudersgroen,"Osdorperweg 530-a, 1067 SX Amsterdam",1067.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Nieuw-West
-seederdeboer|-1,SeederDeBoer,De Ruijterkade 125,,BCorp,0,0,1,0,0,0,
-seenons|-1,Seenons,Danzigerkade 5B,,BCorp,0,0,1,0,0,0,
-share holding b.v.|-1,Share Holding B.V.,x,,BCorp,0,0,1,0,0,0,
+seederdeboer|1011,SeederDeBoer,"De Ruijterkade 125, 1011 AC",1011.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+seenons|1013,Seenons,"Danzigerkade 5B, 1013 AP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+share holding b.v.|1032,Share Holding B.V.,"Vlierweg 12, 1032LG",1032.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
 shootlab|1011,shootlab,"Rapenburgerstraat 93, 1011 VL Amsterdam",1011.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 sign language coffee bar|1074,sign language coffee bar,"Amsteldijk 52-H, 1074 HK Amsterdam",1074.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Zuid
-skilllab|-1,Skilllab,,,BCorp,0,0,1,0,0,0,
-skynrg|-1,SkyNRG,Sint Antoniesbreestraat 16A,,BCorp,0,0,1,0,0,0,
-smyle|-1,Smyle,Hannie Dankbaarpassage 14,,BCorp,0,0,1,0,0,0,
+skilllab|1072,Skilllab,"Stadhouderskade 55, 1072AB",1072.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+skynrg|1011,SkyNRG,"Sint Antoniesbreestraat 16A, 1011  HB",1011.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+smyle|1053,Smyle,"Hannie Dankbaarpassage 14, 1053 RT",1053.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 social capital|1072,social capital,"Eerste van der Helststraat 80, 1072 NZ Amsterdam",1072.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Zuid
 social finance nl|1092,Social Finance NL,"Mauritskade 64 , 1092 AD Amsterdam",1092.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
-south pole netherlands bv|-1,South Pole Netherlands BV,Vijzelstraat 68-78,,BCorp,0,0,1,0,0,0,
-sparkoptimus|-1,SparkOptimus,Jacob Obrechtplein 1,,BCorp,0,0,1,0,0,0,
+south pole netherlands bv|1017,South Pole Netherlands BV,"Vijzelstraat 68-78, 1017 HL",1017.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+sparkoptimus|1071,SparkOptimus,"Jacob Obrechtplein 1, 1071 KS",1071.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 sparks impact|1101,Sparks Impact,"Keienbergweg 97 , 1101 GG Amsterdam",1101.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuidoost
-sparqle|-1,Sparqle,Ijsbaanpad 2,,BCorp,0,0,1,0,0,0,
+sparqle|1076,Sparqle,"Ijsbaanpad 2, 1076 CV",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 spin ai spectrum intelligence|1108,Spin AI Spectrum Intelligence,"Liedenhof 54 , 1108 HB Amsterdam",1108.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuidoost
-sprints & sneakers | growth hacking agency|-1,Sprints & Sneakers | Growth Hacking Agency,x,,BCorp,0,0,1,0,0,0,
+sprints & sneakers | growth hacking agency|1096,Sprints & Sneakers | Growth Hacking Agency,"Duivendrechtsekade 80b, 1096 AH",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 squarewise|-1,Squarewise,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
-startdock holding b.v.|-1,StartDock Holding B.V.,Prins Hendrikkade 21e,,BCorp,0,0,1,0,0,0,
+startdock holding b.v.|1012,StartDock Holding B.V.,"Prins Hendrikkade 21e, 1012 TL",1012.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 starters|1057,Starters,"Orteliuskade 15-3 , 1057 AB Amsterdam",1057.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-startgreen capital|-1,StartGreen Capital,Mauritskade 64,,BCorp,0,0,1,0,0,0,
+startgreen capital|1092,StartGreen Capital,"Mauritskade 64, 1092 AD",1092.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 stichting educatief centrum oost|-1,Stichting Educatief Centrum Oost,,,CodeSocialeOndernemingen,0,0,0,0,1,0,
 stichting kringloopbedrijf de lokatie|1031,Stichting Kringloopbedrijf De Lokatie,"Distelweg 85, 1031HD Amsterdam",1031.0,PSO,0,0,0,0,0,1,Amsterdam-Noord
 stichting nexum|-1,stichting nexum,,,SocialeZaken,1,0,0,0,0,0,
 stichting roots radics café|1105,stichting roots radics café,"Tafelbergweg 8, 1105 BN Amsterdam",1105.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Zuidoost
-stooker specialty coffee|-1,Stooker Specialty Coffee,Kastanjeplein 2.,,BCorp,0,0,1,0,0,0,
-stox b.v.|-1,STOX B.V.,,,BCorp,0,0,1,0,0,0,
-studio anneloes bv|-1,Studio Anneloes BV,,,BCorp,0,0,1,0,0,0,
-studio henk|-1,Studio Henk,Rozengracht 204,,BCorp,0,0,1,0,0,0,
+stooker specialty coffee|1092,Stooker Specialty Coffee,"Kastanjeplein 2, 1092 CJ",1092.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
+stox b.v.|1076,STOX B.V.,"Olympisch Stadion 17, 1076DE",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+studio anneloes bv|1060,Studio Anneloes BV,"Maroastraat 77, 1060LG",1060.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
+studio henk|1016,Studio Henk,"Rozengracht 204, 1016 NL",1016.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 studio/k|1094,Studio/K,"Timorplein 62, 1094 CC Amsterdam",1094.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Oost
-sumthing|-1,Sumthing,,,BCorp,0,0,1,0,0,0,
-sumthing|1091,Sumthing,"Krugerplein 36A , 1091 LA Amsterdam",1091.0,SocialEnterpriseNL; StewardOwnership,0,1,0,1,0,0,Amsterdam-Oost
-sunrock investments b.v.|-1,Sunrock Investments B.V.,Pilotenstraat 37,,BCorp,0,0,1,0,0,0,
-superheroes everywhere|-1,SuperHeroes Everywhere,x,,BCorp,0,0,1,0,0,0,
-sustainable capital group|-1,Sustainable Capital Group,Stationsplein 9,,BCorp,0,0,1,0,0,0,
-swapthis holding|-1,SwapThis Holding,,,BCorp,0,0,1,0,0,0,
+sumthing|1018,Sumthing,"Plantage Middenlaan 2C, 1018 DD Amsterdam",1018.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Centrum
+sumthing|1091,Sumthing,"Krugerplein 36A , 1091 LA Amsterdam",1091.0,BCorp; SocialEnterpriseNL,0,1,1,0,0,0,Amsterdam-Oost
+sunrock investments b.v.|1059,Sunrock Investments B.V.,"Pilotenstraat 37, 1059 CH",1059.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+superheroes everywhere|1017,SuperHeroes Everywhere,"Keizersgracht 585, 1017 DR",1017.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+sustainable capital group|1012,Sustainable Capital Group,"Stationsplein 9, 1012 AB",1012.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+swapthis holding|1098,SwapThis Holding,"Molukkenstraat 200, 1098TW",1098.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 swink|1014,swink,"Zekeringstraat 33 , 1014 BV Amsterdam",1014.0,PSO; SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,1,Amsterdam-Centrum
 sympower b.v.|-1,Sympower B.V.,,,BCorp,0,0,1,0,0,0,
-sympower|-1,Sympower,Prins Hendrikkade 183,,BCorp,0,0,1,0,0,0,
+sympower|1011,Sympower,"Prins Hendrikkade 183, 1011TD",1011.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 talentcoach|1107,Talentcoach,"Weth In `t Veldstraat 120 , 1107 BL Amsterdam",1107.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuidoost
 talenthub amsterdam|1043,talenthub amsterdam,"Roneweg 2, 1043 AH Amsterdam",1043.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Westpoort
-tenue soleil b.v.|-1,Tenue Soleil B.V.,,,BCorp,0,0,1,0,0,0,
-tex tracer bv|-1,Tex Tracer BV,Koivistokade 76,,BCorp,0,0,1,0,0,0,
+tenue soleil b.v.|1081,Tenue Soleil B.V.,"De Cuserstraat 91, 1081CN",1081.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+tex tracer bv|1013,Tex Tracer BV,"Koivistokade 76, 1013 BB",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 the 2b collective|1092,The 2B Collective,"Mauritskade 64 , 1092 AD Amsterdam",1092.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 the chairmen at work|1098,the chairmen at work,"Bredeweg 34-HS, 1098 BS Amsterdam",1098.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Oost
 the change collective|-1,The Change Collective,,,BCorp,0,0,1,0,0,0,
 the creatives|1075,the creatives,"Oranje Nassaulaan 7, 1075 AH Amsterdam",1075.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Zuid
-the family|-1,The Family,,,BCorp,0,0,1,0,0,0,
+the family|1013,The Family,"Westerdoksdijk 40, 1013 AE",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 the flower family|1014,the flower family,"Kabelweg 32, 1014 BB Amsterdam",1014.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 the flower farm|1071,The Flower Farm,"Banstraat 12 , 1071 JZ Amsterdam",1071.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuid
-the food line-up|-1,The Food Line-up,,,BCorp,0,0,1,0,0,0,
+the food line-up|1013,The Food Line-up,"Danzigerkade 225, 1013 AP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 the good roll|1382,the good roll,"Nesland 3, 1382 MZ Weesp",1382.0,SocialeZaken,1,0,0,0,0,0,
 the nice company|1091,The Nice Company,"Weesperzijde  80G , 1091 EJ Amsterdam",1091.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
-the social handshake|-1,The Social Handshake,,,BCorp,0,0,1,0,0,0,
+the social handshake|1053,The Social Handshake,"Mauritskade 63, 1053TG",1053.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 the social handshake|1092,The Social Handshake,"Linnaeusstraat 2C , 1092 CK Amsterdam",1092.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
 the swapshop|1013,The Swapshop,"Haarlemmerdijk 89 , 1013 KC Amsterdam",1013.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-the talent institute|-1,The Talent Institute,Paul van Vlissingenstraat 10F,,BCorp,0,0,1,0,0,0,
-the terrace bv|-1,The Terrace BV,WG Plein 153,,BCorp,0,0,1,0,0,0,
-theotclab|-1,TheOTCLab,Fred. Roeskestraat 115,,BCorp,0,0,1,0,0,0,
-they visualize value|-1,THEY VISUALIZE VALUE,,,BCorp,0,0,1,0,0,0,
-thnk school of leadership|-1,THNK School of Leadership,Plantage Middenlaan 45,,BCorp,0,0,1,0,0,0,
+the talent institute|1096,The Talent Institute,"Paul van Vlissingenstraat 10F, 1096 BE",1096.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
+the terrace bv|1054,The Terrace BV,"WG Plein 153, 1054 SE",1054.0,BCorp,0,0,1,0,0,0,Amsterdam-West
+theotclab|1076,TheOTCLab,"Fred. Roeskestraat 115, 1076EE",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
+they visualize value|1018,THEY VISUALIZE VALUE,"Nieuwe Kerkstraat 441, 1018VK",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+thnk school of leadership|1018,THNK School of Leadership,"Plantage Middenlaan 45, 1018 DC",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 tierrafino|1013,Tierrafino,"Alleen op afspraak geopend. Leveranciers: ingang achterzijde, Archangelkade 23, 1013 BE Amsterdam",1013.0,StewardOwnership,0,0,0,1,0,0,Amsterdam-Centrum
 timi|1013,TIMI,"Oostzaanstraat 48 , 1013 WN Amsterdam",1013.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
 tiny library|1079,Tiny Library,"Kinderdijkstraat 46 , 1079 GL Amsterdam",1079.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuid
-tiny miracles|-1,Tiny Miracles,John M. Keynesplein 12L 4.K6,,BCorp,0,0,1,0,0,0,
+tiny miracles|1066,Tiny Miracles,"John M. Keynesplein 12L 4.K6, 1066 EP",1066.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
 tolkapp|1013,TolkApp,"Haparandadam 7 , 1013 AK Amsterdam",1013.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-tony's chocolonely|-1,Tony's Chocolonely,x,,BCorp,0,0,1,0,0,0,
+tony's chocolonely|1013,Tony's Chocolonely,"Danzigerkade 23B, 1013 AP",1013.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 tony's chocolonely|1014,Tony's Chocolonely,"Pazzanistraat 1 , 1014 DB Amsterdam",1014.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
 toptaal|1058,TopTaal,"Baarsjesweg 224 , 1058 AA Amsterdam",1058.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
-total design holding b.v.|-1,Total Design Holding B.V.,,,BCorp,0,0,1,0,0,0,
+total design holding b.v.|1086,Total Design Holding B.V.,"Pedro de Medinalaan 9, 1086 XK",1086.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
 true price|1015,True Price,"Kabelweg 57 , 1015 BA Amsterdam",1015.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-tsh group holding b.v.|-1,TSH Group Holding B.V.,Amsteldijk 166,,BCorp,0,0,1,0,0,0,
+tsh group holding b.v.|1079,TSH Group Holding B.V.,"Amsteldijk 166, 1079 LH",1079.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 twinpact|1014,twinpact,"Kabelweg 32, 1014 BB Amsterdam",1014.0,SocialEnterpriseNL; SocialeZaken,1,1,0,0,0,0,Amsterdam-Centrum
-unc inc|-1,Unc Inc,Scheepsbouwkade 15,,BCorp,0,0,1,0,0,0,
-united repair centre|-1,United Repair Centre,Krelis Louwenstraat 3,,BCorp,0,0,1,0,0,0,
-united repair centre|1055,United repair centre,"Krelis Louwenstraat 3 , 1055 KA Amsterdam",1055.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-West
+unc inc|1033,Unc Inc,"Scheepsbouwkade 15, 1033 WM",1033.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
+united repair centre|1055,United repair centre,"Krelis Louwenstraat 3 , 1055 KA Amsterdam",1055.0,BCorp; SocialEnterpriseNL,0,1,1,0,0,0,Amsterdam-West
 unwaste|1033,Unwaste,"Noordkant, TT Vasumweg 44 , 1033 SC Amsterdam",1033.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
 upperbloom|1043,upperbloom,"Seineweg 10, 1043 BG Amsterdam",1043.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Westpoort
 van limmikhof|1018,van limmikhof,"Nieuwe Keizersgracht 1-A, 1018 DR Amsterdam",1018.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 vandebron|1017,Vandebron,"Herengracht 545 , 1017 BW Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
-vandejong creative agency|-1,Vandejong Creative Agency,Ms. van Riemsdijkweg 42,,BCorp,0,0,1,0,0,0,
-vie people|-1,VIE people,,,BCorp,0,0,1,0,0,0,
-viisi|-1,Viisi,Surinameplein,,BCorp,0,0,1,0,0,0,
+vandejong creative agency|1033,Vandejong Creative Agency,"Ms. van Riemsdijkweg 42, 1033 RD",1033.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
+vie people|1066,VIE people,"John M. Keynesplein 12, 1066EP",1066.0,BCorp,0,0,1,0,0,0,Amsterdam Nieuw-West
+viisi|1058,Viisi,"Surinameplein 124, 1058GV",1058.0,BCorp,0,0,1,0,0,0,Amsterdam-West
 villa buitenlust|1014,villa buitenlust,"Spaarndammerdijk 319-A, 1014 AA Amsterdam",1014.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
 vj movement|1091,VJ Movement,"Wibautstraat 150 , 1091 GR Amsterdam",1091.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
-wakuli|-1,Wakuli,Linnaeusstraat 237a,,BCorp,0,0,1,0,0,0,
-waterbear network|-1,WaterBear Network,Keizersgracht 452,,BCorp,0,0,1,0,0,0,
-we are pi bv|-1,We are Pi BV,Oranje Nassaulaan 7,,BCorp,0,0,1,0,0,0,
+wakuli|1093,Wakuli,"Wagenaarstraat 70H, 1093 CV",1093.0,BCorp,0,0,1,0,0,0,Amsterdam-Oost
+waterbear network|1016,WaterBear Network,"Keizersgracht 452, 1016GD",1016.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+we are pi bv|1075,We are Pi BV,"Oranje Nassaulaan 7, 1075 AH",1075.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 we wonder company|-1,We Wonder Company,,,BCorp,0,0,1,0,0,0,
-westergasfabriek management bv|-1,Westergasfabriek Management bv,Pazzanistraat 33,,BCorp,0,0,1,0,0,0,
+westergasfabriek management bv|1014,Westergasfabriek Management bv,"Pazzanistraat 33, 1014 DB",1014.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 wilder land|1013,wilder land,"Hembrugstraat 156, 1013 XC Amsterdam",1013.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Centrum
-winclove probiotics bv|-1,Winclove Probiotics BV,,,BCorp,0,0,1,0,0,0,
+winclove probiotics bv|1033,Winclove Probiotics BV,"Tt. Vasumweg 221, 1033 NW",1033.0,BCorp,0,0,1,0,0,0,Amsterdam-Noord
 wonderable|1022,Wonderable,"Zamenhofstraat 150-309 , 1022 AG Amsterdam",1022.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Noord
 woo | worlds of opportunities|1382,woo | worlds of opportunities,"Stationsweg 28, 1382 AB Weesp",1382.0,SocialeZaken,1,0,0,0,0,0,
-yellow.global bv|-1,Yellow.Global BV,Prinsengracht 201F,,BCorp,0,0,1,0,0,0,
+yellow.global bv|1015,Yellow.Global BV,"Prinsengracht 201F, 1015 DT",1015.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
 yes facility|2031,yes facility,"Tappersweg 64, 2031 EV Haarlem",2031.0,SocialeZaken,1,0,0,0,0,0,
 yoni.care|1092,Yoni.care,"Linnaeusstraat 2C , 1092 CK Amsterdam",1092.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Oost
-young colfield|-1,Young Colfield,Hobaostraat 12,,BCorp,0,0,1,0,0,0,
-yumeko|-1,Yumeko,x,,BCorp,0,0,1,0,0,0,
-yumeko|1017,Yumeko,"Herengracht 418 , 1017 BZ Amsterdam",1017.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Centrum
+young colfield|1101,Young Colfield,"Hobaostraat 12, 1101CZ",1101.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuidoost
+yumeko|1017,Yumeko,"Herengracht 418 , 1017 BZ Amsterdam",1017.0,BCorp; SocialEnterpriseNL,0,1,1,0,0,0,Amsterdam-Centrum
 z krant|1091,z krant,"Tweede Oosterparkstraat 72, 1091 JG Amsterdam",1091.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-Oost
 zeefdrukmakers|1054,zeefdrukmakers,"M. van Bouwdijk Bastiaansestraat 36, 1054 SP Amsterdam",1054.0,SocialeZaken,1,0,0,0,0,0,Amsterdam-West
-zo clean planet bv|-1,ZO Clean Planet BV,Tweede Oosterparkstraat,,BCorp,0,0,1,0,0,0,
-zoku and beyond bv|-1,Zoku and Beyond BV,Nieuwe Kerkstraat 104,,BCorp,0,0,1,0,0,0,
-zoncoalitie|-1,Zoncoalitie,IJsbaanpad 2,,BCorp,0,0,1,0,0,0,
+zo clean planet bv|-1,ZO Clean Planet BV,,,BCorp,0,0,1,0,0,0,
+zoku and beyond bv|1018,Zoku and Beyond BV,"Nieuwe Kerkstraat 104, 1018 VN",1018.0,BCorp,0,0,1,0,0,0,Amsterdam-Centrum
+zoncoalitie|1076,Zoncoalitie,"IJsbaanpad 2, 1076 CV",1076.0,BCorp,0,0,1,0,0,0,Amsterdam-Zuid
 zone 3|1114,zone 3,"Pieter Braaijweg 107 - 109, 1114 AJ Amsterdam",1114.0,SocialeZaken,1,0,0,0,0,0,
 zorgkwekerij groen|1067,zorgkwekerij groen,"Osdorperweg 541, 1067 ST Amsterdam",1067.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Nieuw-West
 zuivere koffie|1062,zuivere koffie,"Koningin Wilhelminaplein 1, 1062 HG Amsterdam",1062.0,SocialeZaken,1,0,0,0,0,0,Amsterdam Nieuw-West
+zwarte vrouwen voor technologie|1103,Zwarte Vrouwen Voor Technologie,"Grubbehoeve 222 , 1103 GT Amsterdam",1103.0,SocialEnterpriseNL,0,1,0,0,0,0,Amsterdam-Zuidoost
